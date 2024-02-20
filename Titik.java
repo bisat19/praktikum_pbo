@@ -1,7 +1,5 @@
 // Abisatya Hastarangga Pradana - 24060122120004
-/**
- * Titik
- */
+/** Titik **/
 public class Titik {
     double absis;
     double ordinat;
