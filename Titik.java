@@ -17,6 +17,7 @@ public class Titik {
     Titik(double absis, double ordinat){
         this.absis = absis;
         this.ordinat = ordinat;
+        counterTitik ++;
     }
     
     double getAbsis(){
