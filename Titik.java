@@ -1,4 +1,6 @@
-// Abisatya Hastarangga Pradana - 24060122120004
+//Nama :Abisatya Hastarangga Pradana
+//NIM  :24060122120004
+//Lab C1
 /** Titik **/
 public class Titik {
     double absis;
