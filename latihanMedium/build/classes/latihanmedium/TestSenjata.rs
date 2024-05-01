@@ -1,1 +1,0 @@
-latihanMedium.TestSenjata
